@@ -2,6 +2,10 @@
 
 This is an ongoing project and the readme file is still in progress.
 
+### Technologies used:
+React
+Tailwind
+
 ### How to Run the Project Locally
 
 ```bash
