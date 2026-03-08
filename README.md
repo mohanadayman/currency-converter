@@ -27,4 +27,4 @@ Axios
    npm run dev
    ```
 
-The app will be available at http://localhost:5173/ by default. Tailwind CSS is
+The app will be available at http://localhost:5173/ by default or the next free port.
